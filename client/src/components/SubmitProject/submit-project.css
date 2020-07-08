@@ -1,0 +1,12 @@
+
+.form-label {
+    color: blue;
+}
+.form.control {
+    color: deepskyblue;
+}
+
+.cardcontainer {
+    width: 800px;
+    height: auto;
+}
